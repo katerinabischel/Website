@@ -2,16 +2,16 @@ project:
   type: website
 
 website:
-  title: "Kt"
+  title: "KT"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - chapter1.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
