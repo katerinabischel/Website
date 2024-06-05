@@ -4,7 +4,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Your Site Title"
+  title: "Katerina Bischel's Portfolio"
   navbar:
     left:
       - text: "Home"
@@ -18,12 +18,7 @@ format:
     css: styles.css
 ---
 
-This is a Quarto website.
+**Katerina Bischel**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-
-
-
-```
+Here is a picture of me:
+\![Description of the image\](images/profile(:.png)

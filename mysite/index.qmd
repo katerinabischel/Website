@@ -1,0 +1,29 @@
+---
+title: "Katerina Bischel"
+---
+
+Welcome to my website!
+[LinkedIn](https://www.linkedin.com/in/katerina-bischel)
+[GitHub](https://github.com/katerinabischel)
+![Description of the image](images/profile.png)
+
+<style>
+.profile-section {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.profile-section img {
+    margin-right: 20px;
+    border-radius: 10px; /* Optional: rounds the corners of the image */
+}
+
+.bio p {
+    margin: 0;
+}
+</style>
+
+# My Profile
+
+Hello everyone, I am currently a graduating Environmental Studies senior at UCSB. I am persueing my masters degree at Bren School of Environmental Science and Management Fall 2024 - Spring 2026. 
