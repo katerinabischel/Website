@@ -1,1 +1,17 @@
 /* css styles */
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+h1 {
+    font-weight: 700; /* Bold weight for headings */
+}
+
+p {
+    font-weight: 400; /* Regular weight for paragraphs */
+}
+
+strong {
+    font-weight: 600; /* Semi-bold for emphasized text */
+}
+
